@@ -108,7 +108,7 @@ public class MainBanco {
                         }
                     }
 
-                    case 9 -> JOptionPane.showMessageDialog(null, " ¡Gracias por usar el Efraneitor");
+                    case 9 -> JOptionPane.showMessageDialog(null, " ¡Gracias por usar la aplicación del banco");
                     default -> JOptionPane.showMessageDialog(null, "Opción inválida.");
                 }
 
