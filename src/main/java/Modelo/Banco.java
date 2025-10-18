@@ -20,7 +20,7 @@ public class Banco {
     }
 
     public Banco() {
-        this("Banco Sin Nombre");
+        this("Banco Autónomo de Occidente");
     }
 
     public void registrarCuenta(Cuenta cuenta) {
