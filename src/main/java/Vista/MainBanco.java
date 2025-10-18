@@ -16,7 +16,7 @@ import java.time.LocalDate;
 public class MainBanco {
 
     public static void main(String[] args) {
-        Banco banco = new Banco("Banco Efraneitor");
+        Banco banco = new Banco("Banco Autónomo de Occidente");
         int opcion;
 
         do {
